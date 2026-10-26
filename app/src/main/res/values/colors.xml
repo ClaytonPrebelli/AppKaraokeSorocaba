@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_950">#12041F</color>
+    <color name="brand_900">#241040</color>
+    <color name="brand_700">#4C1D95</color>
+    <color name="surface">#F6F4FB</color>
+    <color name="white">#FFFFFF</color>
+</resources>
