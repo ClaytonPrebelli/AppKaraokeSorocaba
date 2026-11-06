@@ -73,7 +73,7 @@ GET {base}verCategoria?cat={BRA|ING|ITA|ESP|GOS|INF}[&letra={A..Z|0}]
 GET {base}Busca?termo={texto}
 ```
 
-Base: `https://apikaraoke.prebellisolucoes.com/Musicas/`.
+Base: `https://apikaraoke.claytonprebelli.com.br/Musicas/`.
 
 ### 2.3 Cache
 

@@ -7,7 +7,7 @@ música/cantor e lista organizada por cantor, com cache offline de 15 dias.
 - Repositório: <https://github.com/ClaytonPrebelli/AppKaraokeSorocaba>
 - Releases/APK: <https://github.com/ClaytonPrebelli/AppKaraokeSorocaba/releases>
 - Aplicação web de referência: <https://github.com/Prebelli-Solucoes/KaraokeSorocaba>
-- API consumida: `https://apikaraoke.prebellisolucoes.com/Musicas/`
+- API consumida: `https://apikaraoke.claytonprebelli.com.br/Musicas/`
 
 > Este aplicativo foi feito para ser distribuído fora da Play Store, via APK no GitHub Releases.
 > Ele verifica sozinho se há uma versão nova e conduz o usuário até o instalador do Android.
@@ -238,7 +238,7 @@ AppKaraokeSorocaba/
 
 ## 6. API consumida
 
-Base: `https://apikaraoke.prebellisolucoes.com/Musicas/`
+Base: `https://apikaraoke.claytonprebelli.com.br/Musicas/`
 
 | Uso | Requisição | Observações |
 | --- | --- | --- |

@@ -9,7 +9,7 @@ import java.net.URL
 import java.net.URLEncoder
 
 class MusicasApi(
-    private val baseUrl: String = "https://apikaraoke.prebellisolucoes.com/Musicas/"
+    private val baseUrl: String = "https://apikaraoke.claytonprebelli.com.br/Musicas/"
 ) {
 
     suspend fun getCategoria(cat: String, letra: String?): String = withContext(Dispatchers.IO) {

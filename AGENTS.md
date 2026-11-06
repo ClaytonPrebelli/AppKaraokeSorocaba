@@ -110,7 +110,7 @@ app/src/main/java/br/com/prebelli/appkaraokesorocaba/
   repositório mudar, atualize também o workflow e o README.
 
 ### 5.4 API
-- Base: `https://apikaraoke.prebellisolucoes.com/Musicas/`
+- Base: `https://apikaraoke.claytonprebelli.com.br/Musicas/`
 - Categorias: `BRA`, `ING`, `ITA`, `ESP`, `GOS`, `INF`.
 - `verCategoria?cat=X` e `verCategoria?cat=X&letra=Y`.
 - `Busca?termo=...`.
