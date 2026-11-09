@@ -3,6 +3,12 @@
 Todas as versões publicadas têm um APK no
 [GitHub Releases](https://github.com/ClaytonPrebelli/AppKaraokeSorocaba/releases).
 
+## [1.0.1] — 2026-11-09
+
+### Corrigido
+
+- API apontada para o novo endereço `https://apikaraoke.claytonprebelli.com.br/Musicas/`.
+
 ## [1.0.0] — 2026-10-25
 
 ### Adicionado

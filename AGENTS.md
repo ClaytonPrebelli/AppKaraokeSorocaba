@@ -16,7 +16,7 @@ App Android nativo que replica o site **Karaoke Sorocaba**:
 
 O APK é distribuído apenas pelo GitHub Releases. Não há Play Store.
 
-## 2. Estado atual (v1.0.0)
+## 2. Estado atual (v1.0.1)
 
 - Kotlin 2.1.0, Compose BOM 2024.12.01, Material 3, AGP 8.7.3, Gradle 8.11.1.
 - `compileSdk = 35`, `targetSdk = 35`, `minSdk = 26`.
@@ -94,8 +94,8 @@ app/src/main/java/br/com/prebelli/appkaraokesorocaba/
 ### 5.2 Versão
 - `version.properties` é a fonte da verdade:
   ```properties
-  VERSION_CODE=1
-  VERSION_NAME=1.0.0
+  VERSION_CODE=2
+  VERSION_NAME=1.0.1
   ```
 - O workflow de release falha se a tag `vX.Y.Z` não for exatamente igual a `VERSION_NAME`.
 - `VERSION_CODE` deve sempre aumentar.
